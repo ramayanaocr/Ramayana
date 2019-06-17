@@ -1,3 +1,6 @@
 flask
 flask_dropzone
 flask_uploads
+nltk
+gensim
+
